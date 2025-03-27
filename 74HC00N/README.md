@@ -6,14 +6,14 @@ This was in my grab-bag of chips.
 
 ## Pins
 
-14: Vcc
+14: Vcc<br>
  7: Gnd
 
 NAND Gates
 
-1 & 2 in : 3 out
-4 & 5 in : 6 out
-9 & 10 in : 8 out
+1 & 2 in : 3 out<br>
+4 & 5 in : 6 out<br>
+9 & 10 in : 8 out<br>
 12 & 13 in : 11 out
 
 ## Results
@@ -21,10 +21,11 @@ NAND Gates
 <img src="74hc00n.1.png">
 <img src="74hc00n.2.png">
 
-Truth Table
+**Truth Table**
 
-A B Out
-0 0 1
-1 0 1
-0 1 1
-1 1 0
+A|B|Out
+-|-|--
+|0|0|1
+|1|0|1
+|0|1|1
+|1|1|0

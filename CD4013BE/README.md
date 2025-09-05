@@ -6,8 +6,12 @@ Texas Instruments CD4013BE dual flip-flop in a 14 pin DIP.
 
 ## Pins
 
-14: VDD (power)<br>
- 7: VSS (ground)
+ 1: Q
+ 2: Q Bar
+ 3: Clock 1
+ 4: Reset 1
+ 7: VSS (ground)<br>
+14: VDD (power)
 
 ## Results
 
